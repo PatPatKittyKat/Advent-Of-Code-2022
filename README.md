@@ -1,1 +1,1 @@
-# Advent-Of-Code-2022
+Just for fun
